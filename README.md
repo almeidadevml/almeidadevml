@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá, eu sou o Lucas Almeida 👋
 
-<!--
-**almeidadevml/almeidadevml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor full stack em formação, de Xerém, Duque de Caxias - RJ.
 
-Here are some ideas to get you started:
+Gosto de criar sistemas completos, do back-end ao front-end, e de colocar os projetos para rodar de verdade na nuvem.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+
+**Back-end:** Python, FastAPI, PostgreSQL
+
+**Front-end:** HTML, CSS, JavaScript
+
+**Ferramentas:** Git, GitHub, Supabase, Render, VS Code
+
+## 📚 Estudando agora
+
+- Java
+- Armazenamento de arquivos na nuvem (Cloudflare R2)
+
+## 🚀 Projeto em destaque
+
+**[Arena Dolla — Backend de Replays](https://github.com/almeidadevml/arenadolla-backend)**
+
+Sistema de replays para uma arena de futevôlei: uma câmera grava o jogo o tempo todo, e com um clique os últimos 30 segundos viram um replay, que é enviado automaticamente para uma API na nuvem.
+
+- API em Python com FastAPI
+- Banco de dados PostgreSQL no Supabase
+- Publicado no Render
+
+## 📫 Contato
+
+- E-mail: almeidadevml@gmail.com
