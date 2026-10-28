@@ -1,4 +1,4 @@
-# Olá, eu sou o Lucas Almeida 👋
+ Lucas Almeida 
 
 Desenvolvedor full stack em formação, de Xerém, Duque de Caxias - RJ.
 
