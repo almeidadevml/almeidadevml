@@ -2,7 +2,7 @@
 
 Desenvolvedor full stack em formação, de Xerém, Duque de Caxias - RJ.
 
-Gosto de criar sistemas completos, do back-end ao front-end, e de colocar os projetos para rodar de verdade na nuvem.
+Gosto de criar sistemas completos, do back-end ao front-end.
 
 ## 🛠️ Tecnologias
 
